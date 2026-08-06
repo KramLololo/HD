@@ -27,7 +27,7 @@
 - [ ] Ra Uru Hu - The Many Faces of Fear, 49p.pdf 11,55 MB
 - [ ] Ra Uru Hu - The Not Self, 21р.pdf 1,73 MB
 - [ ] Ra Uru Hu - THE RAVE ENCYCLOPEDIA - ABC, 129p.pdf 0,61 MB
-- [ ] Ra Uru Hu - The White Book (from The Book of Letters - scan), 288p.pdf 12,77 MB
+- [x] Ra Uru Hu - The White Book (from The Book of Letters - scan), 288p.pdf 12,77 MB
 - [ ] Ra Uru Hu - Writing on Writing, 5р.pdf 6,60 MB
 
 ## Rave Psychology
