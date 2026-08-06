@@ -50,7 +50,7 @@
 - [ ] Ra Uru Hu - Rave Psychology I. Semester 3. Color, Transference and Trajectory, 234р.pdf 2,10 MB
 - [x] Ra Uru Hu - Rave Psychology II. Semester 1. Mapping the Mind, 152р.pdf 3,97 MB
 - [x] Ra Uru Hu - Rave Psychology II. Semester 2. Upper Color Chains, 189р.pdf 3,51 MB
-- [ ] Ra Uru Hu - Rave Psychology II. Semester 3. Introduction to External Analysis, 161р.pdf 1,59 MB
+- [x] Ra Uru Hu - Rave Psychology II. Semester 3. Introduction to External Analysis, 161р.pdf 1,59 MB
 - [ ] Ra Uru Hu - Rave Psychology III. Semester 1. RP Practitioner Certification, 192р.pdf 3,36 MB
 - [x] Ra Uru Hu - Rave Psychology III. Semester 2. RP Practitioner Certification, 138р.pdf 1,67 MB
 - [x] Ra Uru Hu - Rave Psychology III. Semester 3. Rave Psychologist Certification, 140р.pdf 2,42 MB
