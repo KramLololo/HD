@@ -38,7 +38,7 @@
 - [x] Ra Uru Hu - History of Geometry - Fractals, Nodes, Bases, 200p.pdf 5,55 MB
 - [ ] Ra Uru Hu - JAR - The Five Bases (JAR, 2002-2003).doc 0,24 MB
 - [ ] Ra Uru Hu - JAR - The Juxtaposition Theory, Bases, 56р.pdf 0,64 MB
-- [ ] Ra Uru Hu - Lunar & Planetary Color, 213р.pdf 6,21 MB
+- [x] Ra Uru Hu - Lunar & Planetary Color, 213р.pdf 6,21 MB
 - [ ] Ra Uru Hu - MagneticMonopolePart1, 4р.pdf 0,17 MB
 - [x] Ra Uru Hu - Partnership Analysis, 143р.pdf 9,75 MB
 - [x] Ra Uru Hu - Personality Resonance Mapping - The Way of the Mind, 100р.pdf 6,25 MB
