@@ -9,13 +9,13 @@
 - [x] Ra Uru Hu - How We Connect, 15р.pdf 3,93 MB
 - [x] Ra Uru Hu - Human Design System - The Mammalian, 34р.pdf 0,98 MB
 - [ ] Ra Uru Hu - Love Book, 74p.pdf 29,14 MB
-- [ ] Ra Uru Hu - Nine Centered Awakening, 19р.pdf 0,63 MB
+- [x] Ra Uru Hu - Nine Centered Awakening, 19р.pdf 0,63 MB
 - [ ] Ra Uru Hu - Split definitions and relationships, 23p.pdf 2,89 MB
 - [x] Ra Uru Hu - Teachers, Gurus, Priests, Prophets, Messengers, and Buddhas, 138р.pdf 3,00 MB
 - [ ] Ra Uru Hu - The 64 Evolutionary Steps, 134р.pdf 7,17 MB
 - [ ] Ra Uru Hu - The 64 Material Ways Companion Resource, 19p.pdf 0,24 MB
 - [x] Ra Uru Hu - The 64 Material Ways, 186p.pdf 11,73 MB
-- [ ] Ra Uru Hu - The Architecture of Life, 256р.pdf 9,75 MB
+- [x] Ra Uru Hu - The Architecture of Life, 256р.pdf 9,75 MB
 - [x] Ra Uru Hu - The Black Book, 126р.pdf 4,52 MB
 - [ ] Ra Uru Hu - The Clarion’s Call (a collection of posts Facebook page), 304р.pdf 1,09 MB
 - [ ] Ra Uru Hu - The Clarion's Call-Neptune's Trap, 9р.pdf 0,75 MB
@@ -24,7 +24,7 @@
 - [x] Ra Uru Hu - The Four Views, 199р.pdf 4,72 MB
 - [x] Ra Uru Hu - The Human Design System. A Complete Guide, 253р.pdf 3,60 MB
 - [ ] Ra Uru Hu - The Lines of Consequence, 79р.pdf 3,25 MB
-- [ ] Ra Uru Hu - The Many Faces of Fear, 49p.pdf 11,55 MB
+- [x] Ra Uru Hu - The Many Faces of Fear, 49p.pdf 11,55 MB
 - [ ] Ra Uru Hu - The Not Self, 21р.pdf 1,73 MB
 - [ ] Ra Uru Hu - THE RAVE ENCYCLOPEDIA - ABC, 129p.pdf 0,61 MB
 - [x] Ra Uru Hu - The White Book (from The Book of Letters - scan), 288p.pdf 12,77 MB
@@ -169,17 +169,17 @@
 - [x] Ra Uru Hu - Incarnation Crosses of the Global Incarnation Index, 174.pdf 52,62 MB
 
 ## BG5
-
-- [ ] BG5 @Semester 1.doc 1,11 MB
-- [ ] BG5 @Semester 2.doc 0,71 MB
-- [ ] BG5 @Semester 3.doc 0,75 MB
+(I definitely have more than this, but I have to check to confirm the titles)
+- [x] BG5 @Semester 1.doc 1,11 MB
+- [x] BG5 @Semester 2.doc 0,71 MB
+- [x] BG5 @Semester 3.doc 0,75 MB
 - [ ] BG5 Study Sheets.doc 0,56 MB
 - [ ] Ra Uru Hu - BG5 Semester 1 - Small Business Analysis and Engineering, 175р.pdf 1,66 MB
 - [ ] Ra Uru Hu - BG5 Semester 2 - Small Business Analysis and Engineering, 164р.pdf 1,43 MB
 - [ ] Ra Uru Hu - BG5 Semester 3 - Implementation and Professional Practice, 174р.pdf 1,50 MB
 - [ ] Ra Uru Hu - BG5 Semester 1 Master Copy, 245р.pdf 2,66 MB
 - [ ] Ra Uru Hu - BG5 Semester 2 Master Copy, 164р.pdf 1,09 MB
-- [ ] Ra Uru Hu - BG5 Semester 3 Master Copy, 240р.pdf 2,45 MB
+- [x] Ra Uru Hu - BG5 Semester 3 Master Copy, 240р.pdf 2,45 MB
 - [x] Ra Uru Hu - BG5 Student Manual 1 Revised, 223p.pdf 6,29 MB
 - [ ] Ra Uru Hu - Family Practice, Student Manual, 186p.pdf 22,55 MB
 
@@ -198,7 +198,7 @@
 - [ ] Centers+Defined+and+Undefined.pdf 1,11 MB
 - [ ] FrontPage.pdf 0,79 MB
 - [ ] IHDS - LYD, Living Your Design - Instructor Manual - 2007, 306p.pdf 23,05 MB
-- [ ] IHDS Broshoure - The HD Synthesis Index, 12р.pdf 2,07 MB
+- [x] IHDS Broshoure - The HD Synthesis Index, 12р.pdf 2,07 MB
 - [ ] LYD - A Cellular Transformation Course, 94p.pdf 13,93 MB
 - [ ] Lynda Stone - Living your Design. Instructor Manual, 244р.pdf 3,15 MB
 - [ ] Lynda Stone - Living Your Design. Student Manual, 277р.pdf 109,93 MB
@@ -265,6 +265,6 @@
 
 ## Catalogue Chronological
 
-- [ ] Ra's Work 2020.pdf,    287р， 39,36 MB
-- [ ] Catalogue Chronological (All books and Seminars by Ra), 140р.pdf 3,77 MB
+- [x] Ra's Work 2020.pdf,    287р， 39,36 MB
+- [x] Catalogue Chronological (All books and Seminars by Ra), 140р.pdf 3,77 MB
 - [x] Ras-Agenda-2016 (eng), 166р.pdf 17,20 MB
