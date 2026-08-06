@@ -7,14 +7,14 @@
 - [x] Ra Uru Hu - Design Concepts, 168р.pdf 5,74 MB
 - [x] Ra Uru Hu - Emotionality in the Time of Mutation - eBook, 24р.pdf 2,19 MB
 - [x] Ra Uru Hu - How We Connect, 15р.pdf 3,93 MB
-- [ ] Ra Uru Hu - Human Design System - The Mammalian, 34р.pdf 0,98 MB
+- [x] Ra Uru Hu - Human Design System - The Mammalian, 34р.pdf 0,98 MB
 - [ ] Ra Uru Hu - Love Book, 74p.pdf 29,14 MB
 - [ ] Ra Uru Hu - Nine Centered Awakening, 19р.pdf 0,63 MB
 - [ ] Ra Uru Hu - Split definitions and relationships, 23p.pdf 2,89 MB
 - [x] Ra Uru Hu - Teachers, Gurus, Priests, Prophets, Messengers, and Buddhas, 138р.pdf 3,00 MB
 - [ ] Ra Uru Hu - The 64 Evolutionary Steps, 134р.pdf 7,17 MB
 - [ ] Ra Uru Hu - The 64 Material Ways Companion Resource, 19p.pdf 0,24 MB
-- [ ] Ra Uru Hu - The 64 Material Ways, 186p.pdf 11,73 MB
+- [x] Ra Uru Hu - The 64 Material Ways, 186p.pdf 11,73 MB
 - [ ] Ra Uru Hu - The Architecture of Life, 256р.pdf 9,75 MB
 - [x] Ra Uru Hu - The Black Book, 126р.pdf 4,52 MB
 - [ ] Ra Uru Hu - The Clarion’s Call (a collection of posts Facebook page), 304р.pdf 1,09 MB
@@ -61,6 +61,7 @@
 - [x] Ra Uru Hu - The 36 Roles-Genetic Continuity and Mastery of Lines, 76р.pdf 1,02 MB
 - [ ] Ra Uru Hu - The Cross of Life and the Nodes, 52р.pdf 0,55 MB
 - [ ] Ra Uru Hu - Variables That Which Binds Us, 216р.pdf 5,80 MB
+- [x] Ra Uru Hu - The Meaning of Your Variable in Your Life, 65p.pdf
 - [x] Ra Uru Hu - You and the Shadow, 53р.pdf 4,29 МВ
 
 ## Dream Rave
@@ -91,7 +92,7 @@
 - [x] Ra Uru Hu - From the Left, 118р.pdf 5,59 MB
 - [x] Ra Uru Hu - From the Right, 133р.pdf 8,54 MB
 - [x] Ra Uru Hu - The Left - The Traps of History eBook, 38p.pdf 2,75 MB
-- [ ] Ra Uru Hu - The Right Stuff in a Left World eBook, 39p.pdf 4,67 MB
+- [x] Ra Uru Hu - The Right Stuff in a Left World eBook, 39p.pdf 4,67 MB
 
 ## Planets
 
@@ -141,8 +142,8 @@
 
 ## Color
 
-- [ ] Ra Uru Hu - Color Consciousness - Beyond the Gate, 32р.pdf 2,47 MB
-- [ ] Ra Uru Hu - Colors in human design, 41р.pdf 0,31 MB
+- [x] Ra Uru Hu - Color Consciousness - Beyond the Gate, 32р.pdf 2,47 MB
+- [x] Ra Uru Hu - Colors in human design, 41р.pdf 0,31 MB
 
 ## Codon
 
@@ -222,11 +223,11 @@
 - [ ] Deborah Bergman - Rave cartography volume-1, 258р.pdf 12,58 MB
 - [x] Deborah Bergman - Rave cartography volume-2, 174р.pdf 4,77 MB
 - [ ] Definition - Ra.docx 0,55 MB
-- [ ] IHDS - Cartography 1 - Profiles, 47р.pdf 0,72 MB
-- [ ] IHDS - Cartography 2 - Centers, 53p.pdf 1,50 MB
+- [x] IHDS - Cartography 1 - Profiles, 47р.pdf 0,72 MB
+- [x] IHDS - Cartography 2 - Centers, 53p.pdf 1,50 MB
 - [ ] IHDS - Cartography 3 - Definition, 11р.pdf 0,37 MB
 - [ ] IHDS - Cartography 4 - Authority, 26р.pdf 0,74 MB
-- [ ] IHDS - Cartography Orientation, 122p.pdf 3,94 MB
+- [x] IHDS - Cartography Orientation, 122p.pdf 3,94 MB
 - [ ] Karen Curry - Human Design Training Level 1 The Instruction Manual for Your Life, 110р.pdf 0,83 MB
 - [x] Lynda Bunnell - The Definitive Book of Human Design - Ra Uru Hu, Lynda Bunnell, 462р.pdf 157,01 MB
 - [ ] Ra Uru Hu - PAT III, Professional Analyst Training III, 143p.pdf 1,63 MB
