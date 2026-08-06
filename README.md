@@ -4,9 +4,9 @@
 - [ ] Chains, 42р.pdf 0,94 MB
 - [ ] Ra Uru Hu - A Life´s story Through Human Design Mechanics, 80р.pdf 2,96 MB
 - [ ] Ra Uru Hu - Chart Reading Made Easy, (The Human Design Library), 41p.pdf 0,49 MB
-- [ ] Ra Uru Hu - Design Concepts, 168р.pdf 5,74 MB
+- [x] Ra Uru Hu - Design Concepts, 168р.pdf 5,74 MB
 - [x] Ra Uru Hu - Emotionality in the Time of Mutation - eBook, 24р.pdf 2,19 MB
-- [ ] Ra Uru Hu - How We Connect, 15р.pdf 3,93 MB
+- [x] Ra Uru Hu - How We Connect, 15р.pdf 3,93 MB
 - [ ] Ra Uru Hu - Human Design System - The Mammalian, 34р.pdf 0,98 MB
 - [ ] Ra Uru Hu - Love Book, 74p.pdf 29,14 MB
 - [ ] Ra Uru Hu - Nine Centered Awakening, 19р.pdf 0,63 MB
@@ -21,7 +21,7 @@
 - [ ] Ra Uru Hu - The Clarion's Call-Neptune's Trap, 9р.pdf 0,75 MB
 - [ ] Ra Uru Hu - THE DESIGN OF PREGNANCY, Pre-Natal Conditioning, 212p.pdf 27,14 MB
 - [ ] Ra Uru Hu - The Differentiation Lectures, 53р.pdf 2,11 MB
-- [ ] Ra Uru Hu - The Four Views, 199р.pdf 4,72 MB
+- [x] Ra Uru Hu - The Four Views, 199р.pdf 4,72 MB
 - [x] Ra Uru Hu - The Human Design System. A Complete Guide, 253р.pdf 3,60 MB
 - [ ] Ra Uru Hu - The Lines of Consequence, 79р.pdf 3,25 MB
 - [ ] Ra Uru Hu - The Many Faces of Fear, 49p.pdf 11,55 MB
@@ -34,17 +34,17 @@
 
 - [x] Ra Uru Hu - Advanced Base Theory-Facets and Frequencies, 158p.pdf 4,49 MB
 - [ ] Ra Uru Hu - Bases - The Five Dimensions and Their Relationship to Humanity.pdf 0,11 MB
-- [ ] Ra Uru Hu - Design Resonance Mapping - The Way of The Flesh, 119р.pdf 6,38 MB
+- [x] Ra Uru Hu - Design Resonance Mapping - The Way of The Flesh, 119р.pdf 6,38 MB
 - [x] Ra Uru Hu - History of Geometry - Fractals, Nodes, Bases, 200p.pdf 5,55 MB
 - [ ] Ra Uru Hu - JAR - The Five Bases (JAR, 2002-2003).doc 0,24 MB
 - [ ] Ra Uru Hu - JAR - The Juxtaposition Theory, Bases, 56р.pdf 0,64 MB
 - [ ] Ra Uru Hu - Lunar & Planetary Color, 213р.pdf 6,21 MB
 - [ ] Ra Uru Hu - MagneticMonopolePart1, 4р.pdf 0,17 MB
 - [x] Ra Uru Hu - Partnership Analysis, 143р.pdf 9,75 MB
-- [ ] Ra Uru Hu - Personality Resonance Mapping - The Way of the Mind, 100р.pdf 6,25 MB
-- [ ] Ra Uru Hu - Quarters and Angles, PTL III, 155р.pdf 3,15 MB
+- [x] Ra Uru Hu - Personality Resonance Mapping - The Way of the Mind, 100р.pdf 6,25 MB
+- [x] Ra Uru Hu - Quarters and Angles, PTL III, 155р.pdf 3,15 MB
 - [ ] Ra Uru Hu - Radical Transformations - The Four Lectures, 83р.pdf 3,12 MB
-- [ ] Ra Uru Hu - Rave Psychology External Color Book, 154р.pdf 3,12 MB
+- [x] Ra Uru Hu - Rave Psychology External Color Book, 154р.pdf 3,12 MB
 - [x] Ra Uru Hu - Rave Psychology I. Semester 1. The Mechanics of Conditioning, 234р.pdf 3,28 MB
 - [x] Ra Uru Hu - Rave Psychology I. Semester 2. Mapping the Not-Self Mind, 235р.pdf 3,27 MB
 - [ ] Ra Uru Hu - Rave Psychology I. Semester 3. Color, Transference and Trajectory, 234р.pdf 2,10 MB
@@ -88,9 +88,9 @@
 
 ## From the Left-Right
 
-- [ ] Ra Uru Hu - From the Left, 118р.pdf 5,59 MB
-- [ ] Ra Uru Hu - From the Right, 133р.pdf 8,54 MB
-- [ ] Ra Uru Hu - The Left - The Traps of History eBook, 38p.pdf 2,75 MB
+- [x] Ra Uru Hu - From the Left, 118р.pdf 5,59 MB
+- [x] Ra Uru Hu - From the Right, 133р.pdf 8,54 MB
+- [x] Ra Uru Hu - The Left - The Traps of History eBook, 38p.pdf 2,75 MB
 - [ ] Ra Uru Hu - The Right Stuff in a Left World eBook, 39p.pdf 4,67 MB
 
 ## Planets
@@ -99,7 +99,7 @@
 - [ ] Planetary Conditioning.docx 0,15 MB
 - [ ] Planets through the gates, 20р.pdf 0,39 MB
 - [ ] Ra Uru Hu - Planetary Conditioning (The Human Design Library), 38р.pdf 0,47 MB
-- [ ] Ra Uru Hu - Understanding the Planets in Our Design, 43р.pdf 1,90 MB
+- [x] Ra Uru Hu - Understanding the Planets in Our Design, 43р.pdf 1,90 MB
 - [ ] Recent+History+of+Pluto.pdf 0,62 MB
 - [ ] Uranus+Past+Present+and+Future.pdf 1,80 MB
 - [ ] What About Planets in HD_Jan van den Berg - 46p.pdf 1,32 MB
@@ -137,7 +137,7 @@
 ## Cycles
 
 - [ ] Ra Uru Hu - Global Cycles, (The Human Design Library), 64p.pdf 0,73 MB
-- [ ] Ra Uru Hu - Life Cycles Analysis, 150р.pdf 4,41 MB
+- [x] Ra Uru Hu - Life Cycles Analysis, 150р.pdf 4,41 MB
 
 ## Color
 
@@ -153,7 +153,7 @@
 
 - [x] Ra Uru Hu - Rave Anatomy I. Mapping the Mechanics of the Maia, 197р.pdf 4,57 MB
 - [x] Ra Uru Hu - Rave Anatomy II. The Awareness Lectures, 170р.pdf 4,67 MB
-- [ ] Ra Uru Hu - The senses of the bodygraph, 19р.pdf 0,59 MB
+- [x] Ra Uru Hu - The senses of the bodygraph, 19р.pdf 0,59 MB
 
 ## Sexuality Manual
 
