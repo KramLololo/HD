@@ -117,7 +117,6 @@
 
 ## Rave I Ching - Line Companion
 
-- [ ] 64keys - The Blue-I-Ching, 138p.pdf 12,72 MB
 - [ ] How to read the Rave I 'Ching. Jan van den Berg, 6р.pdf 0,78 MB
 - [ ] Keynotes-Rave-I-Ching, 3p.pdf 0,12 MB
 - [ ] Ra Uru Hu - Rave I Ching, 65р.pdf 1,10 MB
