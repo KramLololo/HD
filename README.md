@@ -179,7 +179,7 @@
 - [ ] Ra Uru Hu - BG5 Semester 1 Master Copy, 245р.pdf 2,66 MB
 - [ ] Ra Uru Hu - BG5 Semester 2 Master Copy, 164р.pdf 1,09 MB
 - [ ] Ra Uru Hu - BG5 Semester 3 Master Copy, 240р.pdf 2,45 MB
-- [ ] Ra Uru Hu - BG5 Student Manual 1 Revised, 223p.pdf 6,29 MB
+- [x] Ra Uru Hu - BG5 Student Manual 1 Revised, 223p.pdf 6,29 MB
 - [ ] Ra Uru Hu - Family Practice, Student Manual, 186p.pdf 22,55 MB
 
 ## OC16
