@@ -1,28 +1,28 @@
 # The Human Design System
 
-- [ ] Adrian Kobler - Rave Statistics, 249p.pdf 25,89 MB
+- [x] Adrian Kobler - Rave Statistics, 249p.pdf 25,89 MB
 - [ ] Chains, 42р.pdf 0,94 MB
 - [ ] Ra Uru Hu - A Life´s story Through Human Design Mechanics, 80р.pdf 2,96 MB
 - [ ] Ra Uru Hu - Chart Reading Made Easy, (The Human Design Library), 41p.pdf 0,49 MB
 - [ ] Ra Uru Hu - Design Concepts, 168р.pdf 5,74 MB
-- [ ] Ra Uru Hu - Emotionality in the Time of Mutation - eBook, 24р.pdf 2,19 MB
+- [x] Ra Uru Hu - Emotionality in the Time of Mutation - eBook, 24р.pdf 2,19 MB
 - [ ] Ra Uru Hu - How We Connect, 15р.pdf 3,93 MB
 - [ ] Ra Uru Hu - Human Design System - The Mammalian, 34р.pdf 0,98 MB
 - [ ] Ra Uru Hu - Love Book, 74p.pdf 29,14 MB
 - [ ] Ra Uru Hu - Nine Centered Awakening, 19р.pdf 0,63 MB
 - [ ] Ra Uru Hu - Split definitions and relationships, 23p.pdf 2,89 MB
-- [ ] Ra Uru Hu - Teachers, Gurus, Priests, Prophets, Messengers, and Buddhas, 138р.pdf 3,00 MB
+- [x] Ra Uru Hu - Teachers, Gurus, Priests, Prophets, Messengers, and Buddhas, 138р.pdf 3,00 MB
 - [ ] Ra Uru Hu - The 64 Evolutionary Steps, 134р.pdf 7,17 MB
 - [ ] Ra Uru Hu - The 64 Material Ways Companion Resource, 19p.pdf 0,24 MB
 - [ ] Ra Uru Hu - The 64 Material Ways, 186p.pdf 11,73 MB
 - [ ] Ra Uru Hu - The Architecture of Life, 256р.pdf 9,75 MB
-- [ ] Ra Uru Hu - The Black Book, 126р.pdf 4,52 MB
+- [x] Ra Uru Hu - The Black Book, 126р.pdf 4,52 MB
 - [ ] Ra Uru Hu - The Clarion’s Call (a collection of posts Facebook page), 304р.pdf 1,09 MB
 - [ ] Ra Uru Hu - The Clarion's Call-Neptune's Trap, 9р.pdf 0,75 MB
 - [ ] Ra Uru Hu - THE DESIGN OF PREGNANCY, Pre-Natal Conditioning, 212p.pdf 27,14 MB
 - [ ] Ra Uru Hu - The Differentiation Lectures, 53р.pdf 2,11 MB
 - [ ] Ra Uru Hu - The Four Views, 199р.pdf 4,72 MB
-- [ ] Ra Uru Hu - The Human Design System. A Complete Guide, 253р.pdf 3,60 MB
+- [x] Ra Uru Hu - The Human Design System. A Complete Guide, 253р.pdf 3,60 MB
 - [ ] Ra Uru Hu - The Lines of Consequence, 79р.pdf 3,25 MB
 - [ ] Ra Uru Hu - The Many Faces of Fear, 49p.pdf 11,55 MB
 - [ ] Ra Uru Hu - The Not Self, 21р.pdf 1,73 MB
@@ -32,58 +32,58 @@
 
 ## Rave Psychology
 
-- [ ] Ra Uru Hu - Advanced Base Theory-Facets and Frequencies, 158p.pdf 4,49 MB
+- [x] Ra Uru Hu - Advanced Base Theory-Facets and Frequencies, 158p.pdf 4,49 MB
 - [ ] Ra Uru Hu - Bases - The Five Dimensions and Their Relationship to Humanity.pdf 0,11 MB
 - [ ] Ra Uru Hu - Design Resonance Mapping - The Way of The Flesh, 119р.pdf 6,38 MB
-- [ ] Ra Uru Hu - History of Geometry - Fractals, Nodes, Bases, 200p.pdf 5,55 MB
+- [x] Ra Uru Hu - History of Geometry - Fractals, Nodes, Bases, 200p.pdf 5,55 MB
 - [ ] Ra Uru Hu - JAR - The Five Bases (JAR, 2002-2003).doc 0,24 MB
 - [ ] Ra Uru Hu - JAR - The Juxtaposition Theory, Bases, 56р.pdf 0,64 MB
 - [ ] Ra Uru Hu - Lunar & Planetary Color, 213р.pdf 6,21 MB
 - [ ] Ra Uru Hu - MagneticMonopolePart1, 4р.pdf 0,17 MB
-- [ ] Ra Uru Hu - Partnership Analysis, 143р.pdf 9,75 MB
+- [x] Ra Uru Hu - Partnership Analysis, 143р.pdf 9,75 MB
 - [ ] Ra Uru Hu - Personality Resonance Mapping - The Way of the Mind, 100р.pdf 6,25 MB
 - [ ] Ra Uru Hu - Quarters and Angles, PTL III, 155р.pdf 3,15 MB
 - [ ] Ra Uru Hu - Radical Transformations - The Four Lectures, 83р.pdf 3,12 MB
 - [ ] Ra Uru Hu - Rave Psychology External Color Book, 154р.pdf 3,12 MB
-- [ ] Ra Uru Hu - Rave Psychology I. Semester 1. The Mechanics of Conditioning, 234р.pdf 3,28 MB
-- [ ] Ra Uru Hu - Rave Psychology I. Semester 2. Mapping the Not-Self Mind, 235р.pdf 3,27 MB
+- [x] Ra Uru Hu - Rave Psychology I. Semester 1. The Mechanics of Conditioning, 234р.pdf 3,28 MB
+- [x] Ra Uru Hu - Rave Psychology I. Semester 2. Mapping the Not-Self Mind, 235р.pdf 3,27 MB
 - [ ] Ra Uru Hu - Rave Psychology I. Semester 3. Color, Transference and Trajectory, 234р.pdf 2,10 MB
-- [ ] Ra Uru Hu - Rave Psychology II. Semester 1. Mapping the Mind, 152р.pdf 3,97 MB
-- [ ] Ra Uru Hu - Rave Psychology II. Semester 2. Upper Color Chains, 189р.pdf 3,51 MB
+- [x] Ra Uru Hu - Rave Psychology II. Semester 1. Mapping the Mind, 152р.pdf 3,97 MB
+- [x] Ra Uru Hu - Rave Psychology II. Semester 2. Upper Color Chains, 189р.pdf 3,51 MB
 - [ ] Ra Uru Hu - Rave Psychology II. Semester 3. Introduction to External Analysis, 161р.pdf 1,59 MB
 - [ ] Ra Uru Hu - Rave Psychology III. Semester 1. RP Practitioner Certification, 192р.pdf 3,36 MB
-- [ ] Ra Uru Hu - Rave Psychology III. Semester 2. RP Practitioner Certification, 138р.pdf 1,67 MB
-- [ ] Ra Uru Hu - Rave Psychology III. Semester 3. Rave Psychologist Certification, 140р.pdf 2,42 MB
-- [ ] Ra Uru Hu - Rave Psychology. Post Graduate, 225р.pdf 9,52 MB
-- [ ] Ra Uru Hu - Rave Psychology (The Human Design Library), 95р.pdf 1,17 MB
-- [ ] Ra Uru Hu - Scenes from the Cross of Life. The Nodal Environments, 89р.pdf 2,01 MB
+- [x] Ra Uru Hu - Rave Psychology III. Semester 2. RP Practitioner Certification, 138р.pdf 1,67 MB
+- [x] Ra Uru Hu - Rave Psychology III. Semester 3. Rave Psychologist Certification, 140р.pdf 2,42 MB
+- [x] Ra Uru Hu - Rave Psychology. Post Graduate, 225р.pdf 9,52 MB
+- [x] Ra Uru Hu - Rave Psychology (The Human Design Library), 95р.pdf 1,17 MB
+- [x] Ra Uru Hu - Scenes from the Cross of Life. The Nodal Environments, 89р.pdf 2,01 MB
 - [ ] Ra Uru Hu - Story Lines, 82р.pdf 2,91 MB
-- [ ] Ra Uru Hu - The 36 Roles-Genetic Continuity and Mastery of Lines, 76р.pdf 1,02 MB
+- [x] Ra Uru Hu - The 36 Roles-Genetic Continuity and Mastery of Lines, 76р.pdf 1,02 MB
 - [ ] Ra Uru Hu - The Cross of Life and the Nodes, 52р.pdf 0,55 MB
 - [ ] Ra Uru Hu - Variables That Which Binds Us, 216р.pdf 5,80 MB
-- [ ] Ra Uru Hu - You and the Shadow, 53р.pdf 4,29 МВ
+- [x] Ra Uru Hu - You and the Shadow, 53р.pdf 4,29 МВ
 
 ## Dream Rave
 
-- [ ] Ra Uru Hu - Dream Rave I Introduction to Personal Analysis, 144р.pdf 5,08 MB
-- [ ] Ra Uru Hu - Dream Rave II Analyst Certification, 212р.pdf 7,15 MB
-- [ ] Ra Uru Hu - Dream Rave III Advanced Analysis, 123р.pdf 4,12 MB
+- [x] Ra Uru Hu - Dream Rave I Introduction to Personal Analysis, 144р.pdf 5,08 MB
+- [x] Ra Uru Hu - Dream Rave II Analyst Certification, 212р.pdf 7,15 MB
+- [x] Ra Uru Hu - Dream Rave III Advanced Analysis, 123р.pdf 4,12 MB
 - [ ] Ra Uru Hu - Dream Rave IV Persona and Reincarnation, 215p.pdf 7,80 MB
-- [ ] Ra Uru Hu - Dream Rave. Introduction, 95р.pdf 1,87 MB
+- [x] Ra Uru Hu - Dream Rave. Introduction, 95р.pdf 1,87 MB
 
 ## PHS
 
 - [ ] Ra Uru Hu - PHS Design 4 Color and Transference, 9р.pdf 0,10 MB
-- [ ] Ra Uru Hu - PHS I. Semester 1. The Mechanics of the Vehicle, 252р.pdf 6,95 MB
-- [ ] Ra Uru Hu - PHS I. Semester 2. Determination & Healing. Practitioner Program, 228р.pdf 4,05 MB
-- [ ] Ra Uru Hu - PHS I. Semester 3. Determination & Healing. Analyst Certification Program, 231р.pdf 2,12 MB
-- [ ] Ra Uru Hu - PHS II. Semester 1. The First, Second & Third Color Chains, 180р.pdf 3,46 MB
+- [x] Ra Uru Hu - PHS I. Semester 1. The Mechanics of the Vehicle, 252р.pdf 6,95 MB
+- [x] Ra Uru Hu - PHS I. Semester 2. Determination & Healing. Practitioner Program, 228р.pdf 4,05 MB
+- [x] Ra Uru Hu - PHS I. Semester 3. Determination & Healing. Analyst Certification Program, 231р.pdf 2,12 MB
+- [x] Ra Uru Hu - PHS II. Semester 1. The First, Second & Third Color Chains, 180р.pdf 3,46 MB
 - [ ] Ra Uru Hu - PHS II. Semester 2. 4,5,6 Color Chains, 174р.pdf 4,01 MB
 - [ ] Ra Uru Hu - PHS II. Semester 3. Introduction to Systems Analysis, 190р.pdf 3,30 MB
-- [ ] Ra Uru Hu - PHS III. Semester 1. Practitioner Certification, 200р.pdf 3,48 MB
-- [ ] Ra Uru Hu - PHS III. Semester 2. PHS Practitioner Certification, 134р.pdf 2,31 MB
-- [ ] Ra Uru Hu - PHS III. Semester 3. Practitioner Certification, 140р.pdf 2,75 MB
-- [ ] Ra Uru Hu - PHS. External Color book, 159р.pdf 4,30 MB
+- [x] Ra Uru Hu - PHS III. Semester 1. Practitioner Certification, 200р.pdf 3,48 MB
+- [x] Ra Uru Hu - PHS III. Semester 2. PHS Practitioner Certification, 134р.pdf 2,31 MB
+- [x] Ra Uru Hu - PHS III. Semester 3. Practitioner Certification, 140р.pdf 2,75 MB
+- [x] Ra Uru Hu - PHS. External Color book, 159р.pdf 4,30 MB
 - [ ] Ra Uru Hu - Post Graduate PHS, 101р.pdf 2,91 MB
 
 ## From the Left-Right
@@ -106,14 +106,14 @@
 
 ## Rave Cosmology
 
-- [ ] Ra Uru Hu - Rave Cosmology I. Bhan Tugh secure, 261р.pdf 11,84 MB
-- [ ] Ra Uru Hu - Rave Cosmology II. The Six Mystical Ways, 209р.pdf 2,96 MB
-- [ ] Ra Uru Hu - Rave Cosmology III. Dying Death. Bardo secure, 238р.pdf 7,11 MB
-- [ ] Ra Uru Hu - Rave Cosmology IV. Nature and Mechanics of the Rave, 191р.pdf 3,07 MB
-- [ ] Ra Uru Hu - Rave Cosmology V. Brahama's Night and Beyond, 178р.pdf 3,91 MB
+- [x] Ra Uru Hu - Rave Cosmology I. Bhan Tugh secure, 261р.pdf 11,84 MB
+- [x] Ra Uru Hu - Rave Cosmology II. The Six Mystical Ways, 209р.pdf 2,96 MB
+- [x] Ra Uru Hu - Rave Cosmology III. Dying Death. Bardo secure, 238р.pdf 7,11 MB
+- [x] Ra Uru Hu - Rave Cosmology IV. Nature and Mechanics of the Rave, 191р.pdf 3,07 MB
+- [x] Ra Uru Hu - Rave Cosmology V. Brahama's Night and Beyond, 178р.pdf 3,91 MB
 - [ ] Ra Uru Hu - Rave Cosmology VI. Profile, Purpose and Function, 167р.pdf 2,50 MB
-- [ ] Ra Uru Hu - Rave Cosmology VII. The Nature of Stars, 145р.pdf 4,60 MB
-- [ ] Ra Uru Hu - Rave Cosmology VIII. Mystic Monologues, 152р.pdf 3,01 MB
+- [x] Ra Uru Hu - Rave Cosmology VII. The Nature of Stars, 145р.pdf 4,60 MB
+- [x] Ra Uru Hu - Rave Cosmology VIII. Mystic Monologues, 152р.pdf 3,01 MB
 
 ## Rave I Ching - Line Companion
 
@@ -128,11 +128,11 @@
 ## Advanced Mechanics + Holistic Analysis
 
 - [ ] Ra Uru Hu - Advanced Mechanics I, 254р.pdf 9,28 MB
-- [ ] Ra Uru Hu - Advanced Mechanics II, 115р.pdf 6,77 MB
-- [ ] Ra Uru Hu - Holistic Analysis 1 Fundamentals, 244p.pdf 12,84 MB
-- [ ] Ra Uru Hu - Holistic Analysis 2 Diagnostics, 223p.pdf 10,02 MB
+- [x] Ra Uru Hu - Advanced Mechanics II, 115р.pdf 6,77 MB
+- [x] Ra Uru Hu - Holistic Analysis 1 Fundamentals, 244p.pdf 12,84 MB
+- [x] Ra Uru Hu - Holistic Analysis 2 Diagnostics, 223p.pdf 10,02 MB
 - [ ] Ra Uru Hu - Holistic Analysis 3 Certification, 164p.pdf 7,67 MB
-- [ ] Ra Uru Hu - Radical Transformations, 83р.pdf 3,12 MB
+- [x] Ra Uru Hu - Radical Transformations, 83р.pdf 3,12 MB
 - [ ] Ra Uru Hu - Science of Differentiation Master Program, 217p.pdf 8,94 MB
 
 ## Cycles
@@ -152,18 +152,21 @@
 
 ## Rave Anatomy
 
-- [ ] Ra Uru Hu - Rave Anatomy I. Mapping the Mechanics of the Maia, 197р.pdf 4,57 MB
-- [ ] Ra Uru Hu - Rave Anatomy II. The Awareness Lectures, 170р.pdf 4,67 MB
+- [x] Ra Uru Hu - Rave Anatomy I. Mapping the Mechanics of the Maia, 197р.pdf 4,57 MB
+- [x] Ra Uru Hu - Rave Anatomy II. The Awareness Lectures, 170р.pdf 4,67 MB
 - [ ] Ra Uru Hu - The senses of the bodygraph, 19р.pdf 0,59 MB
 
 ## Sexuality Manual
 
 - [ ] Ra Uru Hu - Sexuality Manual 1of2, Intro and Solar Plexus, 63р.pdf 49,95 MB
 - [ ] Ra Uru Hu - Sexuality Manual 2of2, Splenic System of Caring, 50р.pdf 39,50 MB
-- [ ] Ra Uru Hu - The Mechanics of Sexuality Manual, 217р.pdf 72,73 MB Incarnation Crosses
+- [x] Ra Uru Hu - The Mechanics of Sexuality Manual, 217р.pdf 72,73 MB
+
+## Incarnation Crosses
+
 - [ ] Ra Uru Hu - Global Incarnation Index. Profile transcript (Sedona AZ-july-1999), 100p.pdf 4,28 MB
-- [ ] Ra Uru Hu - Incarnation Crosses by Profile. Parts I, II, III, IV, V, 1223р.pdf 15,19 MB
-- [ ] Ra Uru Hu - Incarnation Crosses of the Global Incarnation Index, 174.pdf 52,62 MB
+- [x] Ra Uru Hu - Incarnation Crosses by Profile. Parts I, II, III, IV, V, 1223р.pdf 15,19 MB
+- [x] Ra Uru Hu - Incarnation Crosses of the Global Incarnation Index, 174.pdf 52,62 MB
 
 ## BG5
 
@@ -209,15 +212,16 @@
 - [ ] Ra Uru Hu - Human Design Profiling, 29р.pdf 0,22 MB
 - [x] Ra Uru Hu - Manifestor Manifesto, 83р.pdf 1,22 MB
 - [ ] Ra Uru Hu - Profile and Type Refrence Book, 132p.pdf 33,27 MB
-- [ ] Ra Uru Hu - Projector Empowerment - Illustrations, 2р.pdf 0,59 MB
-- [ ] Ra Uru Hu - Projector Empowerment - Part 1 Lectures, 80р.pdf 2,31 MB
+- [x] Ra Uru Hu - Projector Empowerment - Illustrations, 2р.pdf 0,59 MB
+- [x] Ra Uru Hu - Projector Empowerment - Part 1 Lectures, 80р.pdf 2,31 MB
+- [x] Ra Uru Hu - Projector Empowerment - Part 2 Analysis, 130p.pdf
 - [ ] Ra Uru Hu - Projector Transformation, 12р.pdf 0,15 MB
 
 ## Rave ABC + Cartography + PTL
 
 - [ ] ABC Red and Black Homework Templates, 7р.pdf 0,96 MB
 - [ ] Deborah Bergman - Rave cartography volume-1, 258р.pdf 12,58 MB
-- [ ] Deborah Bergman - Rave cartography volume-2, 174р.pdf 4,77 MB
+- [x] Deborah Bergman - Rave cartography volume-2, 174р.pdf 4,77 MB
 - [ ] Definition - Ra.docx 0,55 MB
 - [ ] IHDS - Cartography 1 - Profiles, 47р.pdf 0,72 MB
 - [ ] IHDS - Cartography 2 - Centers, 53p.pdf 1,50 MB
@@ -225,26 +229,26 @@
 - [ ] IHDS - Cartography 4 - Authority, 26р.pdf 0,74 MB
 - [ ] IHDS - Cartography Orientation, 122p.pdf 3,94 MB
 - [ ] Karen Curry - Human Design Training Level 1 The Instruction Manual for Your Life, 110р.pdf 0,83 MB
-- [ ] Lynda Bunnell - The Definitive Book of Human Design - Ra Uru Hu, Lynda Bunnell, 462р.pdf 157,01 MB
+- [x] Lynda Bunnell - The Definitive Book of Human Design - Ra Uru Hu, Lynda Bunnell, 462р.pdf 157,01 MB
 - [ ] Ra Uru Hu - PAT III, Professional Analyst Training III, 143p.pdf 1,63 MB
 - [ ] Ra Uru Hu - PTL I, Professional Training Level I, Teacher Manual, 321p.pdf 9,74 MB
 - [ ] Ra Uru Hu - Rave Cartography Teachers Manual, 272p.pdf 64,05 MB
-- [ ] Theresa Blanding - Rave ABC Level 1 Student Modules, 107p.pdf 19,11 MB
+- [x] Theresa Blanding - Rave ABC Level 1 Student Modules, 107p.pdf 19,11 MB
 - [ ] Working materials for the Rave course ABC, 29р.pdf  俄语16,25 MB
 - [ ] Rave Cartography, 161р.pdf  俄语20,74 MB
 
 ## Lines + Gates + Channels + Centers + Circuitry
 
-- [ ] Ra Uru Hu - Channels by Type I. Introduction and Creative Channels, 258р.pdf 10,57 MB
-- [ ] Ra Uru Hu - Channels by Type II. Manifesting and Generating Channels, 208р.pdf 9,41 MB
-- [ ] Ra Uru Hu - Channels by Type III. Projected Channels, 205р.pdf 12,98 MB
-- [ ] Ra Uru Hu - Channels by Type IV. Understanding the Transit Program, 124р.pdf 10,39 MB
+- [x] Ra Uru Hu - Channels by Type I. Introduction and Creative Channels, 258р.pdf 10,57 MB
+- [x] Ra Uru Hu - Channels by Type II. Manifesting and Generating Channels, 208р.pdf 9,41 MB
+- [x] Ra Uru Hu - Channels by Type III. Projected Channels, 205р.pdf 12,98 MB
+- [x] Ra Uru Hu - Channels by Type IV. Understanding the Transit Program, 124р.pdf 10,39 MB
 - [ ] Ra Uru Hu - Circuits, Channels, Gates, (The Human Design Library), 47p.pdf 0,83 MB
 - [ ] Ra Uru Hu - Line Resonance, 13р.pdf 10,11 MB
-- [ ] Ra Uru Hu - Rave Bodygraph Circuitry - 2000, 119p.pdf 31,36 MB
-- [ ] Ra Uru Hu - The Life Force. The Channels, 178р.pdf 4,65 MB
+- [x] Ra Uru Hu - Rave Bodygraph Circuitry - 2000, 119p.pdf 31,36 MB
+- [x] Ra Uru Hu - The Life Force. The Channels, 178р.pdf 4,65 MB
 - [ ] Ra Uru Hu - The Nine Centers and their Gates, (The Human Design Library), 175p.pdf 4,48 MB
-- [ ] Ra Uru Hu - The Six Lines, 97р.pdf 1,23 MB
+- [x] Ra Uru Hu - The Six Lines, 97р.pdf 1,23 MB
 - [ ] Richard Rudd - Complete guide to Circuits, Channels and Gates, 95р.pdf 14,18 MB
 - [ ] The 19 gate.pdf 0,06 MB
 
@@ -263,4 +267,4 @@
 
 - [ ] Ra's Work 2020.pdf,    287р， 39,36 MB
 - [ ] Catalogue Chronological (All books and Seminars by Ra), 140р.pdf 3,77 MB
-- [ ] Ras-Agenda-2016 (eng), 166р.pdf 17,20 MB
+- [x] Ras-Agenda-2016 (eng), 166р.pdf 17,20 MB
