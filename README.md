@@ -37,7 +37,7 @@
 - [x] Ra Uru Hu - Design Resonance Mapping - The Way of The Flesh, 119р.pdf 6,38 MB
 - [x] Ra Uru Hu - History of Geometry - Fractals, Nodes, Bases, 200p.pdf 5,55 MB
 - [ ] Ra Uru Hu - JAR - The Five Bases (JAR, 2002-2003).doc 0,24 MB
-- [ ] Ra Uru Hu - JAR - The Juxtaposition Theory, Bases, 56р.pdf 0,64 MB
+- [x] Ra Uru Hu - JAR - The Juxtaposition Theory, Bases, 56р.pdf 0,64 MB
 - [x] Ra Uru Hu - Lunar & Planetary Color, 213р.pdf 6,21 MB
 - [ ] Ra Uru Hu - MagneticMonopolePart1, 4р.pdf 0,17 MB
 - [x] Ra Uru Hu - Partnership Analysis, 143р.pdf 9,75 MB
@@ -99,7 +99,7 @@
 - [ ] I-Ching planets - Channels+with+Line+Structure - 36p.pdf 4,26 MB
 - [ ] Planetary Conditioning.docx 0,15 MB
 - [ ] Planets through the gates, 20р.pdf 0,39 MB
-- [ ] Ra Uru Hu - Planetary Conditioning (The Human Design Library), 38р.pdf 0,47 MB
+- [x] Ra Uru Hu - Planetary Conditioning (The Human Design Library), 38р.pdf 0,47 MB
 - [x] Ra Uru Hu - Understanding the Planets in Our Design, 43р.pdf 1,90 MB
 - [ ] Recent+History+of+Pluto.pdf 0,62 MB
 - [ ] Uranus+Past+Present+and+Future.pdf 1,80 MB
@@ -147,8 +147,8 @@
 
 ## Codon
 
-- [ ] Ra Uru Hu - Codon Mapping (The Human Design Library), 119р.pdf 4,39 MB
-- [ ] Ra Uru Hu - JAR - Rave Genetics, 10р.pdf 0,63 MB
+- [x] Ra Uru Hu - Codon Mapping (The Human Design Library), 119р.pdf 4,39 MB
+- [x] Ra Uru Hu - JAR - Rave Genetics, 10р.pdf 0,63 MB
 
 ## Rave Anatomy
 
