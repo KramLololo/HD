@@ -2,7 +2,7 @@
 
 - [x] Adrian Kobler - Rave Statistics, 249p.pdf 25,89 MB
 - [ ] Chains, 42р.pdf 0,94 MB
-- [ ] Ra Uru Hu - A Life´s story Through Human Design Mechanics, 80р.pdf 2,96 MB
+- [x] Ra Uru Hu - A Life's story Through Human Design Mechanics, 80р.pdf 2,96 MB
 - [ ] Ra Uru Hu - Chart Reading Made Easy, (The Human Design Library), 41p.pdf 0,49 MB
 - [x] Ra Uru Hu - Design Concepts, 168р.pdf 5,74 MB
 - [x] Ra Uru Hu - Emotionality in the Time of Mutation - eBook, 24р.pdf 2,19 MB
