@@ -69,7 +69,7 @@
 - [x] Ra Uru Hu - Dream Rave I Introduction to Personal Analysis, 144р.pdf 5,08 MB
 - [x] Ra Uru Hu - Dream Rave II Analyst Certification, 212р.pdf 7,15 MB
 - [x] Ra Uru Hu - Dream Rave III Advanced Analysis, 123р.pdf 4,12 MB
-- [ ] Ra Uru Hu - Dream Rave IV Persona and Reincarnation, 215p.pdf 7,80 MB
+- [x] Ra Uru Hu - Dream Rave IV Persona and Reincarnation, 215p.pdf 7,80 MB
 - [x] Ra Uru Hu - Dream Rave. Introduction, 95р.pdf 1,87 MB
 
 ## PHS
