@@ -47,7 +47,7 @@
 - [x] Ra Uru Hu - Rave Psychology External Color Book, 154р.pdf 3,12 MB
 - [x] Ra Uru Hu - Rave Psychology I. Semester 1. The Mechanics of Conditioning, 234р.pdf 3,28 MB
 - [x] Ra Uru Hu - Rave Psychology I. Semester 2. Mapping the Not-Self Mind, 235р.pdf 3,27 MB
-- [ ] Ra Uru Hu - Rave Psychology I. Semester 3. Color, Transference and Trajectory, 234р.pdf 2,10 MB
+- [x] Ra Uru Hu - Rave Psychology I. Semester 3. Color, Transference and Trajectory, 234р.pdf 2,10 MB
 - [x] Ra Uru Hu - Rave Psychology II. Semester 1. Mapping the Mind, 152р.pdf 3,97 MB
 - [x] Ra Uru Hu - Rave Psychology II. Semester 2. Upper Color Chains, 189р.pdf 3,51 MB
 - [x] Ra Uru Hu - Rave Psychology II. Semester 3. Introduction to External Analysis, 161р.pdf 1,59 MB
