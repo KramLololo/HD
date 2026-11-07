@@ -249,7 +249,7 @@
 - [x] Ra Uru Hu - The Life Force. The Channels, 178р.pdf 4,65 MB
 - [ ] Ra Uru Hu - The Nine Centers and their Gates, (The Human Design Library), 175p.pdf 4,48 MB
 - [x] Ra Uru Hu - The Six Lines, 97р.pdf 1,23 MB
-- [ ] Richard Rudd - Complete guide to Circuits, Channels and Gates, 95р.pdf 14,18 MB
+- [x] Richard Rudd - Complete guide to Circuits, Channels and Gates, 95р.pdf 14,18 MB
 - [ ] The 19 gate.pdf 0,06 MB
 
 ## Keynotes
